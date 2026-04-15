@@ -14,7 +14,7 @@ This database consists of five tables which include-
   5. Warranty which contain information about warranty claims.
 
 ## Entity Relationship Diagram(ERD)
-
+<img width="1472" height="823" alt="Image" src="https://github.com/user-attachments/assets/479248f1-90b4-40a2-9457-1c3c0e220bca" />
 
 
 ## 🛠 Tools and Skills Used
