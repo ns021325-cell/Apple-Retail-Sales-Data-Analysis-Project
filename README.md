@@ -1,4 +1,6 @@
 <img width="1200" height="1200" alt="Image" src="https://github.com/user-attachments/assets/3438ba61-0276-489e-b087-17ed25a8d39d" />
+
+
 ## 📊  Apple Retail Sales Data Analysis Project
 This project analyzes over 1 million dataset using advanced SQL to derive business insights into store performance,product trends and warranty claims.
 
